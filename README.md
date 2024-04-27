@@ -13,12 +13,6 @@ This is a YouTube clone project built as a portfolio project to showcase the dev
 - **Material UI:** Material UI is used for designing the user interface, providing a sleek and responsive design for the YouTube clone.
   
 
-## Social Media
 
-You can connect with the developer on social media:
-
-- Twitter: [@yeabsraAshebir](https://twitter.com/yeabsraAshebir)
-- LinkedIn: [@yeabsrashebir](https://linkedin.com/in/yeabsrashebir)
-- Telegram: [@technerd345](https://t.me/technerd345)
 
 
