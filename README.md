@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/BCcQF3d/image.png" alt="image" border="0" align="center">
+<img src="https://i.ibb.co/BCcQF3d/image.png" alt="image" border="0" >
 
 # YouTube Clone
 
